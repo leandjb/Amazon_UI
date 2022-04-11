@@ -17,8 +17,8 @@ public class MainPage {
 
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         ChromeOptions chromeOptions = new ChromeOptions();
+        chromeOptions.addArguments("--incognito");
         driver = new ChromeDriver(chromeOptions);
-//        chromeOptions.addArguments("--headless");
 
     }
 
