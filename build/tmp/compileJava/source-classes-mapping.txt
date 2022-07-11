@@ -1,8 +1,8 @@
 pages/MainPage.java
  pages.MainPage
-runner/runner.java
- runner.runner
 pages/AmazonSearchPage.java
  pages.AmazonSearchPage
 steps/AmazonSearchSteps.java
  steps.AmazonSearchSteps
+runner/runner.java
+ runner.runner

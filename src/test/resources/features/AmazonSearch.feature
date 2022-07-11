@@ -1,5 +1,5 @@
 @Amazon
-Feature: Test Amazon search functinality
+Feature: Test Amazon search functionality
 
   @Cart
   Scenario Outline: As a customer when i search a product, I want to see if third position on second page is avaliable for purchase and can added to the card

@@ -1,5 +1,7 @@
 package pages;
 
+import java.util.HashSet;
+
 public class AmazonSearchPage extends MainPage{
 
     //Locators of WebElements
@@ -21,6 +23,7 @@ public class AmazonSearchPage extends MainPage{
 
         write(searchBox,criteria);
     }
+
 
     public void clickSearch() {
 
